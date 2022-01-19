@@ -50,13 +50,8 @@ Answer: Nested if-else blocks
 
 8) Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.
 
-spam = 0
-if spam==1:
-  print('Hello')
-elif spam==2:
-  print('Howdy')
-else:
-  print('Greetings!')
+![image](https://user-images.githubusercontent.com/24777563/150104757-ca44302f-60d4-4d58-aff4-6603e4285b57.png)
+
   
 9) If your programme is stuck in an endless loop, what keys you’ll press?
 
@@ -90,14 +85,9 @@ When the user call range() with three arguments, the user can choose not only wh
 
 12. Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
 Answer:
-for i in range(1, 11):
-    print(i)
- 
- 
-i = 1
-while(i<=10):
-    print(i)
-    i += 1
+
+![image](https://user-images.githubusercontent.com/24777563/150104932-8b220bdc-e049-450f-8c8f-a29561cceed1.png)
+
 
 14. If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
 This function can be called with spam.bacon().
